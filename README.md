@@ -1,9 +1,13 @@
 <h1>Prodigy Infotech Web Development Task 1</h1>
 <p>Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages. Use HTML to structure the menu, CSS to style it, and JavaScript to add interactivity, such as changing the background color or font color of the menu when it is scrolled or when a menu item is hovered over.</p>
 
+![Uploading Screenshot 2024-07-21 133700.png…]()
+
 <h2>Interactive Navigation Menu</h2>
 
 This repository contains an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu has a fixed position and is visible on all pages. The project uses HTML for structuring the menu, CSS for styling it, and JavaScript for adding interactivity.
+
+![Uploading Screenshot 2024-07-21 133712.png…]()
 
 <h2>Features</h2>
 
